@@ -32,10 +32,10 @@ The most challenging part was getting the local ERPNext environment running and 
 
 ## Screenshots
 ### ERPNext Home Screen
-![ERPNext Home Screen](screenshots/erpnext-home.png)
+![ERPNext Home Screen](erpnext-home.png)
 
 ### Fest Event List View
-![Fest Event List View](screenshots/fest-event-list.png)
+![Fest Event List View](fest-event-list.png)
 
 ## Learnings
 - Learned the basics of the Frappe Framework and ERPNext.
