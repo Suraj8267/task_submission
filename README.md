@@ -52,7 +52,7 @@ I resolved these issues by starting the Bench development processes and updating
 
 ### ERPNext Workspace
 
-![ERPNext Home Screen](erpnext-home.png)
+![ERPNext Workspace](erpnext-home.png)
 
 ### Fest Event List View
 
