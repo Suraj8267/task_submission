@@ -69,5 +69,3 @@ I resolved these issues by starting the Bench development processes and updating
 ## Conclusion
 
 This exercise provided hands-on experience with setting up Frappe Framework and ERPNext locally, creating a custom DocType, and managing sample records. It also improved my understanding of the Frappe development workflow and basic troubleshooting.
-
-
